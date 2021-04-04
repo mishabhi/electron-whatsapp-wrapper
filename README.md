@@ -12,5 +12,5 @@ Use yarn or npm.
     1. Download AppImage file detector: wget "https://github.com/AppImage/appimaged/releases/download/continuous/appimaged-x86_64.AppImage"
     2. chmod +x appimaged-x86_64.AppImage
     3. ./appimaged-x86_64.AppImage --install
-    4. Copy whatsapp AppImage from dist folder and keep it inside any of below folders:
+    4. Download WhatsApp AppImage from https://github.com/mishabhi/electron-whatsapp-wrapper/releases/download/v1.0.0/electron-whatsapp-wrapper-1.0.0.      AppImage and keep it inside any of below folders:
         ~/Downloads, ~/.local/bin, ~/bin, /opt, /usr/local/bin fol
