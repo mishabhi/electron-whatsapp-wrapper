@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-electron",
+  "version": "1.0.0",
+  "description": "Unofficial wrapper for WhatsApp Web",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder -l"
+  },
+  "repository": "https://github.com/mishabhi/electron-whatsapp-wrapper",
+  "author": "Abhishek Mishra",
+  "license": "Apache",
+  "devDependencies": {
+    "electron": "^12.0.2",
+    "electron-builder": "^22.10.5"
+  }
+}
